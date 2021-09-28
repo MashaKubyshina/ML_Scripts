@@ -11,10 +11,12 @@ GDG Bootcamp link https://gdg.community.dev/events/details/google-gdg-cloud-edmo
 
 Tutorials:
 PyTorch beginner tutorial https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+
 X Gradient Boosting algorithm https://xgboost.readthedocs.io/en/latest/
 
 Papers:
 Attention is all you need https://arxiv.org/pdf/1706.03762.pdf and related video https://www.youtube.com/watch?v=rBCqOTEfxvg
+
 Bert model tutorial https://mccormickml.com/2019/07/22/BERT-fine-tuning/
 
 Articles:
