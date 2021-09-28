@@ -2,6 +2,7 @@
 
 This project is a compilation of exercises done during GDG Cloud Edmonton ML Bootcamp in summer 2021.
 The bootcamp explored data pipelines, word2vec, NER, Transformers and Bert ML models.
+Tutorials were created by the mentors.
 The excercises were created by our mentors and completed by us individually. 
 
 If you are interested in more ML resources here is a list of articles and videos that were recommended to us during the bootcamp:
