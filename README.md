@@ -26,8 +26,6 @@ If you are interested in more ML resources here is a list of articles and videos
 Tutorials:
 PyTorch beginner tutorial https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
-X Gradient Boosting algorithm https://xgboost.readthedocs.io/en/latest/
-
 Papers:
 Attention is all you need https://arxiv.org/pdf/1706.03762.pdf and related video https://www.youtube.com/watch?v=rBCqOTEfxvg
 
