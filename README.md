@@ -8,10 +8,15 @@ The excercises were created by our mentors and completed by us individually.
 GDG Bootcamp link https://gdg.community.dev/events/details/google-gdg-cloud-edmonton-presents-machine-learning-bootcamp-2021-2021-06-27/
 
 Materials:
+
 >Week 1: Word2Vec
+
 >Week 2: Transformers
+
 >Week 3: Bert_NER, PyTorch DataLoaders
+
 >Week 4: Bert_tokenizer
+
 >Week 5: Bert_QA
 
 If you are interested in more ML resources here is a list of articles and videos that were recommended to us during the bootcamp:
