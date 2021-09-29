@@ -19,6 +19,8 @@ Materials:
 
 >Week 5: Bert_QA
 
+Bert Question Answering task model created by one of the mentors Hasan Badran https://github.com/badran047/ask_me
+
 If you are interested in more ML resources here is a list of articles and videos that were recommended to us during the bootcamp:
 
 Tutorials:
@@ -34,4 +36,3 @@ Bert model tutorial https://mccormickml.com/2019/07/22/BERT-fine-tuning/
 Articles:
 Winning the Netflix Prize: A Summary https://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/
 
-Bert Question Answering task model created by one of the mentors Hasan Badran https://github.com/badran047/ask_me
